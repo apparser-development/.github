@@ -1,2 +1,5 @@
+<img src="./logo.svg" alt="" width="50%"/>
+
 # Apparser development
-About
+
+```Convenience, automation and AI```
