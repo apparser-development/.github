@@ -1,4 +1,4 @@
-<img src="./logo.svg" alt="" width="50%"/>
+<img src="./logo.svg" alt="" width="70%"/>
 
 # Apparser development
 
