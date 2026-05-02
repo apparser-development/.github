@@ -2,4 +2,4 @@
 
 # Apparser development
 
-```Convenience, automation and AI```
+```Convenience, automation and AI.```
